@@ -17,7 +17,7 @@ import {
   Eye,
 } from "lucide-react-native";
 import { useAuth } from "../../context/AuthContext";
-import { mockBuses, mockAlerts } from "../../data/mockData";
+//import { mockBuses, mockAlerts } from "../../data/mockData";
 import MapView, { Marker } from "react-native-maps";
 
 export default function AdminDashboard() {
